@@ -1,34 +1,57 @@
 
 
  Q:1
- alert("Hello")
+var usrName = "azam";
 
 
 
  Q:2
- alert("Error! Please Enter a valid password")
+ var myName = "Syed Azam Bukhari";
+
 
 
  Q:3
- var str1 = "Hello"
- var str2 = "welcome to my web"
+ var msg = "Hello World";
+ alert(msg);
 
- document.write(str1 + "<br>" + str2);
 
 
  Q:4
- alert("welcome to js land");
- alert("happty coding");
+ var studentName = "Azam";
+ var studentDateOfBirth = "4 feb 2007";
+ var studentColification = "Certified web developer";
+
+ alert(studentName);
+ alert(studentDateOfBirth);
+ alert(studentColification);
+
 
 
  Q:5
- var value = "hello... i can run JS Through my web browser console";
- alert(value);
- console.log(value);
+ var msg = "i am web developer"
+ alert(msg);
+
 
 
  Q:6
- alert ("Hello user i am syed azam bukhari and i am developer")
+ var email = "azam@email.come";
+ alert("my Emailo is :" + email)
 
 
- 
+
+ Q:7
+ var xyz = "I am trying to learn from the Book A smarter way to learn javascript";
+ alert(xyz);
+
+
+
+ Q:8
+ var asb = "I can write HTML content through js";
+ document.write(abs)
+
+
+
+ Q:9
+ var str = "hello world";
+ alert(str);
+ document.write(str);
